@@ -1,5 +1,5 @@
 # MPG_API
-Python client for the Mon Petit Gazon API
+Unofficial Python client for the Mon Petit Gazon API
 
 
 ## Installation
